@@ -1,4 +1,4 @@
-# Hello, I'm Maulana 👋
+# Hello, I'm Maulana
 
 I am a software engineer enthusiast with heavy to backend development, interested in competitive programming, UI/UX design, frontend development and familiar with computer science fundamentals.
 
@@ -9,7 +9,7 @@ I am a software engineer enthusiast with heavy to backend development, intereste
 | Backend Developer   | [Lingotalk](https://lingotalk.co)    | Nov 2021 - Feb 2022 |
 | Frontend Instructor | [Sanbercode](https://sanbercode.com) | Aug 2021 - Sep 2021 |
 
-## 💻 Tech Skills
+## Tech Skills
 
 ### Programming Languages
 
@@ -47,10 +47,10 @@ I am a software engineer enthusiast with heavy to backend development, intereste
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-## 🌐 Github Stat & Social Media
+## Github Stat & Social Media
 
-[![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulana1k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulana1k&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulana1k&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulana1k&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/maulana1k/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/maulanna.i/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
