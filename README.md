@@ -1,4 +1,4 @@
-# Hello, I'm Maulana
+# Hello, I'm Maulana 👋
 
 I am a software engineer enthusiast with heavy to backend development, interested in competitive programming, UI/UX design, frontend development and familiar with computer science fundamentals.
 
@@ -9,7 +9,7 @@ I am a software engineer enthusiast with heavy to backend development, intereste
 | Backend Developer   | [Lingotalk](https://lingotalk.co)    | Nov 2021 - Feb 2022 |
 | Frontend Instructor | [Sanbercode](https://sanbercode.com) | Aug 2021 - Sep 2021 |
 
-## Tech Skills
+## 💻 Tech Skills
 
 ### Programming Languages
 
