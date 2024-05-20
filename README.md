@@ -1,4 +1,4 @@
-# Hello, I'm Maulana 👋
+# Hello, I'm Maulana Imamul Khaq 👋
 
 I am a software engineer enthusiast with heavy to backend development, interested in competitive programming, UI/UX design, frontend development and familiar with computer science fundamentals.
 
