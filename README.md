@@ -6,6 +6,7 @@ I am a software engineer enthusiast with heavy to backend development, intereste
 
 | Role                | Company                              | Duration            |
 | ------------------- | ------------------------------------ | ------------------- |
+| Software Engineer   | [Blibli.com](https://blibli.com)     | Nov 2024 - May 2025 |
 | Backend Developer   | [Lingotalk](https://lingotalk.co)    | Nov 2021 - Feb 2022 |
 | Frontend Instructor | [Sanbercode](https://sanbercode.com) | Aug 2021 - Sep 2021 |
 
