@@ -86,6 +86,13 @@ Software Engineer at [Mekari](https://mekari.com), one of the top SaaS companies
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maulana1k&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulana1k&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=ffffff&hide=css)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=maulana1k&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8)
+
+<br>
+
 [LinkedIn](https://www.linkedin.com/in/maulana1k/) · [Email](mailto:mm930199@gmail.com)
 
 </div>
